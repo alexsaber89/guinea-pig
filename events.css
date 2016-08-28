@@ -1,0 +1,34 @@
+/***********
+  SECTIONS
+***********/
+section:first-child {
+  font-weight: 900;
+}
+
+section:last-child {
+  font-weight: 900;
+  font-style: italic;
+}
+
+/***********
+  BUTTONS
+***********/
+.blue {
+  color: blue;
+}
+
+.bigger {
+  font-size: 3em;
+}
+
+.border {
+  border: 1px solid black;
+}
+
+.border_rounded {
+  border-radius: 20%;
+}
+
+button {
+  display: block;
+}
